@@ -1,0 +1,14 @@
+<hr />
+<details>
+<summary><u>обратная связь</u>
+</summary>
+<form method= "post" action= "/send/">
+<label>Имя:</label><br>
+<input type= "text" name= "name"><br>
+<label>E-mail:</label><br>
+<input type= "email" name= "email"><br>
+<label>Сообщение:</label><br>
+<textarea name= "message"></textarea><br>
+<input type= "submit" name= "submit" value= "Отправить">
+</form>
+</details>
